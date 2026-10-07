@@ -1,3 +1,6 @@
+# ignore pkl files
+*.pkl
+
 # ds store
 .DS_Store
 
