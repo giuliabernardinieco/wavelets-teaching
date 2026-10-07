@@ -15,7 +15,6 @@ This repository contains two Jupyter notebooks for running continuous wavelet an
 The functions in `wavelet_wrapper_posh` are based on the methods and codebase of [O'Malley et al. (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13702) ([codebase](LINK_TO_OMALLEY_CODEBASE)). They build on the [`pycwt`](https://github.com/regeirk/pycwt) library and also implement rectified power, following [Liu et al. (2007)](https://journals.ametsoc.org/view/journals/atot/24/12/2007jtecho511_1.xml).
 
 ## Getting started
-
 1. Clone the repository:
 
    ```bash
@@ -43,6 +42,3 @@ Both notebooks import their functions from the .py files in `wavelet_wrapper_pos
 - O'Malley, et al. (2023). *Global Ecology and Biogeography*. https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13702
 - Liu, Y., et al. (2007). *Journal of Atmospheric and Oceanic Technology*, 24(12). https://journals.ametsoc.org/view/journals/atot/24/12/2007jtecho511_1.xml
 
-## License
-
-Add your license here (e.g. MIT).
